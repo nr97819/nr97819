@@ -1,25 +1,14 @@
 ### Hi there 👋
+🌱 I’m currently learning ...
 
-### Hi there 👋
+![Sangwoo's github stats](https://github-readme-stats.vercel.app/api?username=nr97819&show_icons=true&theme=merko)
 
-![Yun's github stats](https://github-readme-stats.vercel.app/api?username=cheese10yun&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nr97819&layout=compact&exclude_repo=cheese10yun.github.io,Yun-Blog,intellij-settings)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheese10yun&layout=compact&exclude_repo=cheese10yun.github.io,Yun-Blog,intellij-settings)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Blog](https://img.shields.io/badge/Blog-cheese10yun.github.io-green.svg)](https://cheese10yun.github.io/)
+[![Blog](https://img.shields.io/badge/Blog-soonang2.tistory.com-green.svg)](https://soonang2.tistory.com/?page=1)
 
 <!--
 **nr97819/nr97819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
